@@ -1,5 +1,3 @@
 test content for git tutorial
 
 added second line after add command
-
-line added in stash mode
