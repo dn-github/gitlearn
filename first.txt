@@ -7,3 +7,5 @@ Adding line in stash mode
 adding another line after reverted commit
 
 trying again revert
+
+this line will remain after reverting
