@@ -9,3 +9,6 @@ adding another line after reverted commit
 this line will remain after reverting
 
 git reset try again
+
+
+asfffasfa
