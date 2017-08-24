@@ -3,3 +3,5 @@ test content for git tutorial
 added second line after add command
 
 Adding line in stash mode
+
+adding one line which will be reverted
